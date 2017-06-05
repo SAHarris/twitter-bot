@@ -1,0 +1,14 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Nodejs twitter search bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stuart Harris",
+  "license": "ISC",
+  "dependencies": {
+    "twitter": "^1.7.0"
+  }
+}
